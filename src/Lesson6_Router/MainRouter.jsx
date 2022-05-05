@@ -96,7 +96,7 @@ const MainRouter = () => {
           </li>
           <ol>
             <li>
-              <Link to="/mainUseEffect">UseEffect with API</Link>
+              <Link to="/mainUseEffect">UseEffect basic</Link>
             </li>
             <li>
               <Link to="/mainUseEffectv2">UseEffect with API</Link>
